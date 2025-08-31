@@ -421,6 +421,7 @@
       height: 120px;
       flex-wrap: wrap;
        justify-content: center;
+       
       padding: 15px;
     }
     .sign-in{
@@ -837,6 +838,7 @@
   }
 
   }
+
 
 
 
